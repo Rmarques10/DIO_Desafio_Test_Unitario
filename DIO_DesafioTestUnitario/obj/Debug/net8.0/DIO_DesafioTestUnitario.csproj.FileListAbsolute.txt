@@ -1,0 +1,14 @@
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\bin\Debug\net8.0\DIO_DesafioTestUnitario.exe
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\bin\Debug\net8.0\DIO_DesafioTestUnitario.deps.json
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\bin\Debug\net8.0\DIO_DesafioTestUnitario.runtimeconfig.json
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\bin\Debug\net8.0\DIO_DesafioTestUnitario.dll
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\bin\Debug\net8.0\DIO_DesafioTestUnitario.pdb
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.AssemblyInfoInputs.cache
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.AssemblyInfo.cs
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.dll
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\refint\DIO_DesafioTestUnitario.dll
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.pdb
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\DIO_DesafioTestUnitario.genruntimeconfig.cache
+C:\Users\rafin\source\repos\DIO_DesafioTestUnitario\DIO_DesafioTestUnitario\obj\Debug\net8.0\ref\DIO_DesafioTestUnitario.dll
